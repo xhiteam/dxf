@@ -4,6 +4,13 @@ DXF 文件解析组件
 将其解析为几何数据和点线数据
 
 ## 1.1 dependency
+```
+<dependency>
+  <groupId>com.xhiteam.dxf</groupId>
+  <artifactId>dxf</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
 
 # 2.Change Log
 
