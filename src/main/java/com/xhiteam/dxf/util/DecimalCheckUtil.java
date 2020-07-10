@@ -6,10 +6,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @Description 判断是否为小数
- * @Author youjianzhao
- * @Date 2020/2/1 10:28
- * @Version
+ * @author jianzhao you
+ * @version V1.0
  */
 public class DecimalCheckUtil {
 

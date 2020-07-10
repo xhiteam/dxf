@@ -7,10 +7,8 @@ import com.google.common.collect.Lists;
 import java.util.List;
 
 /**
- * @Description 将点的结合转化为线的集合
- * @Author youjianzhao
- * @Date 2020/1/7 14:15
- * @Version v1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class PointToLineUtil {
 

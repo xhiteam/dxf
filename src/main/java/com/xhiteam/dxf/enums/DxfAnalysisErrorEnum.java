@@ -4,10 +4,9 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * @Description DXF文件解析错误码枚举类
- * @Author fengwen
- * @Date 2019/3/29 18:17
- **/
+ * @author fengwen
+ * @version V1.0
+ */
 @Getter
 @AllArgsConstructor
 public enum DxfAnalysisErrorEnum {

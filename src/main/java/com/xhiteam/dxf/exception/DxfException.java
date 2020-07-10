@@ -1,10 +1,8 @@
 package com.xhiteam.dxf.exception;
 
 /**
- * @Description
- * @Author
- * @Date 2020/1/20 22:11
- * @Version
+ * @author janzhao you
+ * @version V1.0
  */
 public class DxfException extends RuntimeException {
 

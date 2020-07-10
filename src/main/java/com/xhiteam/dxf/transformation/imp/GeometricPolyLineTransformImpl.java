@@ -10,10 +10,8 @@ import org.apache.commons.collections4.CollectionUtils;
 import java.util.List;
 
 /**
- * @Description 几何多线段转换
- * @Author fengwen
- * @Date 2020/1/19 22:59
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class GeometricPolyLineTransformImpl implements GeometricTransform<GeometricPolyLine> {
 
@@ -25,7 +23,7 @@ public class GeometricPolyLineTransformImpl implements GeometricTransform<Geomet
     /**
      * 采用单例模式
      *
-     * @return
+     * @return 返回实例对象
      */
     public static GeometricTransform getSingleInstance() {
         if (geometricTransform == null) {

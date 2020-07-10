@@ -9,10 +9,8 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * @Description dxf点线数据Line
- * @Author fengwen
- * @Date 2019/12/11 19:58
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 @Data
 @NoArgsConstructor
