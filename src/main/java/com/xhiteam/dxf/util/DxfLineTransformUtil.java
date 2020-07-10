@@ -16,10 +16,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @Description 数据转换工具类
- * @Author fengwen
- * @Date 2019/12/22 13:30
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class DxfLineTransformUtil {
 

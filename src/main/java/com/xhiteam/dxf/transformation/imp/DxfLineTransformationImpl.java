@@ -17,10 +17,8 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * @Description
- * @Author fengwen 数据转换实现类
- * @Date 2019/12/22 13:29
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class DxfLineTransformationImpl implements DxfLineTransformation {
 

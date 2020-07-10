@@ -10,10 +10,8 @@ import org.apache.commons.collections4.CollectionUtils;
 import java.util.List;
 
 /**
- * @Description 几何弧线转换
- * @Author fengwen
- * @Date 2020/1/19 22:58
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class GeometricArcTransformImpl implements GeometricTransform<GeometricArc> {
 
@@ -26,7 +24,7 @@ public class GeometricArcTransformImpl implements GeometricTransform<GeometricAr
     /**
      * 采用单例模式
      *
-     * @return
+     * @return 返回实例对象
      */
     public static GeometricTransform getSingleInstance() {
         if (geometricTransform == null) {

@@ -4,10 +4,8 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * @Description
- * @Author fengwen 文件结构枚举
- * @Date 2019/12/22 10:33
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 @Getter
 @AllArgsConstructor

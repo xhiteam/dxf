@@ -2,9 +2,7 @@ package com.xhiteam.dxf.constant;
 
 /**
  * @author fengwen
- * @Description 实体常量
- * @Date 2019/12/10 23:28
- * @Version V1.0
+ * @version V1.0
  */
 public interface EntityNameConstant {
 

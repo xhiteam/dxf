@@ -7,10 +7,8 @@ import lombok.NoArgsConstructor;
 import java.math.BigDecimal;
 
 /**
- * @Description dxf多线段顶点
- * @Author youjianzhao
- * @Date 2020/2/13 15:49
- * @Version
+ * @author fengwen
+ * @version V1.0
  */
 @Data
 @AllArgsConstructor

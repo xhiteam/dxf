@@ -5,9 +5,7 @@ import lombok.Getter;
 
 /**
  * @author fengwen
- * @Description 多线段的组码枚举
- * @Date 2019/12/10 23:19
- * @Version V1.0
+ * @version V1.0
  */
 @Getter
 @AllArgsConstructor

@@ -56,7 +56,7 @@ public class DxfCollectorImpl implements DxfCollector {
     /**
      * 获取dxf几何数据（初步）
      * map的key: 几何图像名称，比如：‘POINT’
-     * map的value:几何图像集合，比如：List<GeometricObject>
+     * map的value:几何图像集合，比如：List
      *
      * @return 返回map数据
      */

@@ -13,10 +13,8 @@ import com.xhiteam.dxf.transformation.TransformBuilder;
 import java.util.List;
 
 /**
- * @Description 用于GeometricObject转换为对应的几何图形
- * @Author fengwen
- * @Date 2019/12/28 15:26
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class GeometricTransformUtil {
 

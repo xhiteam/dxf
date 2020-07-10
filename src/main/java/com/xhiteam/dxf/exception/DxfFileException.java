@@ -3,10 +3,8 @@ package com.xhiteam.dxf.exception;
 import com.xhiteam.dxf.enums.DxfFileErrorEnum;
 
 /**
- * @Description 自定义DXF文件异常异常
- * @Author fengwen
- * @Date 2020/1/12 14:49
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class DxfFileException extends DxfException {
 

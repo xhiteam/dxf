@@ -29,9 +29,7 @@ import java.util.Map;
 
 /**
  * @author fengwen
- * @Description dxf解析实现类
- * @Date 2019/12/10 23:38
- * @Version V1.0
+ * @version V1.0
  */
 public class DxfAnalysis {
 

@@ -11,16 +11,14 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 /**
- * @Description DXF入口
- * @Author fengwen
- * @Date 2019/12/21 20:46
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 public class DXF {
 
     /**
      * 上传文件、返回DXF数据采集者
-     *
+     * @throws IOException io异常
      * @param file 上传的文件
      * @return 数据采集者
      */
@@ -36,7 +34,7 @@ public class DXF {
 
     /**
      * 通过文件文件路径、返回DXF数据采集者
-     *
+     * @throws IOException io异常
      * @param filePath 文件路径
      * @return 数据采集者
      */

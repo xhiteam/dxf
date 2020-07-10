@@ -10,10 +10,8 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
- * @Description dxf点线数据点
- * @Author fengwen
- * @Date 2019/12/11 20:04
- * @Version V1.0
+ * @author fengwen
+ * @version V1.0
  */
 @Data
 @NoArgsConstructor

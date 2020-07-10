@@ -9,9 +9,7 @@ import java.util.List;
 
 /**
  * @author fengwen
- * @Description dxf几何图形多线段
- * @Date 2019/12/10 23:13
- * @Version V1.0
+ * @version V1.0
  */
 @Data
 @NoArgsConstructor

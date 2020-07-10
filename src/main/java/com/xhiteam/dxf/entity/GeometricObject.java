@@ -9,9 +9,7 @@ import java.io.Serializable;
 
 /**
  * @author fengwen
- * @Description 基本的dxf对象类
- * @Date 2019/12/11 19:30
- * @Version V1.0
+ * @version V1.0
  */
 @Data
 @NoArgsConstructor
